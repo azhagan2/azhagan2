@@ -23,12 +23,6 @@
 ### 🚀 What I'm currently working on
 ####  **AWS Medallion Pipeline:** Developing a serverless Data Lakehouse, Industry proof Data Pipeline using **Terraform, AWS Glue, and Airflow** by self taught.
 
---- 
-
-## 🛠️ Projects
-
-[![Main Project](https://github-readme-stats.vercel.app/api/pin/?username=azhagan2&repo=Customer-360-Analytics&theme=tokyonight)](https://github.com/azhagan2/Customer-360-Analytics)
-[![Custom Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=azhagan2&repo=Supply-Chain-Management-Pipeline&theme=tokyonight)](https://github.com/azhagan2/Supply-Chain-Management-Pipeline)                        [![Main Project](https://github-readme-stats.vercel.app/api/pin/?username=azhagan2&repo=Kinesis-to-Snowflake---Streaming-Pipeline&theme=tokyonight)](https://github.com/azhagan2/Kinesis-to-Snowflake---Streaming-Pipeline)        [![Main Project](https://github-readme-stats.vercel.app/api/pin/?username=azhagan2&repo=Pyspark-Transformations&theme=tokyonight)](https://github.com/azhagan2/Pyspark-Transformations)       
 
 ---
 
@@ -55,4 +49,3 @@
 * **LinkedIn:** [linkedin.com/in/azhagan](https://linkedin.com/in/azhagan)
 * **Email:** [azhagansubbaraj@gmail.com](azhagansubbaraj@gmail.com)
 
-*"Data is the new oil, but only if you have the right refinery."*
