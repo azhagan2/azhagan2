@@ -38,13 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azhagan2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhagan2&layout=compact&theme=tokyonight)
-
----
-
-
 ### 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/azhagan](https://linkedin.com/in/azhagan)
 * **Email:** [azhagansubbaraj@gmail.com](azhagansubbaraj@gmail.com)
